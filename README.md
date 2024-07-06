@@ -3,6 +3,10 @@
 ## Overview
 
 The **JS Quote Generator** is a web application that provides users with randomly generated quotes at the click of a button. This project showcases the use of JavaScript, HTML, and CSS to create an interactive and visually appealing web app. It serves as a practical example for computer science students to learn about API integration, DOM manipulation, and responsive design.
+[TRY NOW!](https://qyuzet.github.io/js-quote-generator/)
+
+
+![image](https://github.com/Qyuzet/js-quote-generator/assets/93258081/b41aa854-8222-41e9-b1db-4642dae015ef)
 
 ## Features
 
